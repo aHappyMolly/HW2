@@ -1,0 +1,9 @@
+請以上次完成的基礎HTML網頁為內容，
+試著運用語意標籤
+（例如：header, nav, main, article, footer等），
+並套用CSS樣式美化。
+
+ 
+繳交檔案：
+網頁檔名為index.html，將使用的素材全部上傳Github系統，最後將發佈網址貼至iLearning，例如：https://kuhucheng.github.io/0301/
+若網頁檔名為"assignment.html"，網址則為：https://kuhucheng.github.io/0301/assignment.html

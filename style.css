@@ -1,0 +1,25 @@
+@charset "utf-8";
+.box1 {
+    background-color: hsla(40,45%,67%,1.00);
+    width: 290mm;
+    height: 12mm;
+    padding-top: 0px;
+    padding-bottom: 0px;
+    border-radius: 20px;
+    color: hsla(0,1%,30%,1.00);
+    text-align: left;
+    float: none;
+    line-height: 12mm;
+
+}
+container {
+    padding-left: auto;
+    padding-right: auto;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+.a1 {
+    text-shadow: 0px 0px;
+    color: hsla(0,0%,0%,1.00);
+}
